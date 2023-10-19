@@ -1,0 +1,226 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+/* Style the header */
+.content
+{
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+   
+  }
+
+/*First Paragraph*/
+
+.styleParagraph {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.roses {
+    color: #FF206E; 
+}
+
+.notes {
+    color: #FFD700; 
+}
+
+.gray-hair {
+    color: #A9A9A9; 
+}
+
+.fine-wine {
+    color: #8B4513; 
+}
+
+.parents {
+    color: #32CD32;
+}
+
+.love {
+    color: red;
+    font-style: italic;
+    font-size: 28px;
+}
+
+.friendship {
+    color: #1E90FF; 
+}
+
+.forehead-kiss {
+    color: #FF4500; 
+}
+
+.date-night {
+    color: #8A2BE2; 
+}
+
+.apology {
+    text-decoration: underline;
+}
+
+/*Second Paragraph*/
+
+.patient-kind {
+    color: #32CD32; 
+    font-style: italic;
+}
+
+.hold-door {
+    color: #0000FF; 
+}
+
+.slow-dance {
+    color: #FF1493; 
+    font-style: italic;
+}
+
+.senior-prom {
+    color: #FFD700; 
+}
+
+.grow-old {
+    color: #FF4500; 
+}
+
+.feel-young {
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+/*Third Paragraph*/
+
+.father-loves {
+    color: #8B4513; 
+        }
+
+.mom-loves {
+    color: #FF69B4; 
+        }
+
+/*Fourth Paragraph*/
+
+.road-trip {
+    color: #FF4500; 
+        }
+
+.make-fun {
+    color: #32CD32; 
+        }
+
+.rock{
+    color: black; 
+    font-style: italic;
+        }
+
+.flip-off {
+    color: #8B0000; 
+        }
+
+.accidentally {
+    text-decoration: underline;
+        }
+
+.scrabble-winner {
+    color: #4B0082; 
+        }
+
+/*Fifth Paragraph*/
+
+.patient-kind {
+    color: #32CD32; 
+}
+
+.hold-door {
+    color: #0000FF; 
+}
+
+.slow-dance {
+    color: #FF1493; 
+}
+
+.senior-prom {
+    color: #FFD700; 
+}
+
+.grow-old {
+    color: #FF4500; 
+}
+
+.feel-young {
+    color: #FF69B4; 
+}
+
+/*Seventh Paragraph*/
+
+.father-mentor {
+    color: #8B4513; 
+}
+
+.teach-daughter {
+    color: #FFD700; 
+}
+
+.royalty {
+    color: #FF4500; 
+}
+
+/*Eight Paragraph*/
+
+
+.patient-kind {
+    color: #32CD32;
+}
+
+.hold-door {
+    color: #0000FF; 
+}
+
+.slow-dance {
+    color: #FF1493; 
+}
+
+.senior-prom {
+    color: #FFD700; 
+}
+
+.feel-young {
+    color: #FF69B4; 
+}
+
+/*Nineth Paragraph*/
+
+.father-loves {
+    color: #8B4513; 
+}
+
+.mom-loves {
+    color: #FF69B4; 
+}
+
+/* Style the footer */
+footer {
+    background-color: pink;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+a {
+    color: #fff; 
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FF0000; /* Cambiar el color del texto al pasar el mouse sobre el enlace (rojo) */
+}
